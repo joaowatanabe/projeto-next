@@ -3,30 +3,30 @@ import Produto from "../model/Produto";
 const produtos: Produto[] = [
   {
     id: 1,
-    nome: "Smartphone X Pro",
-    preco: 2000,
+    nome: "Smartphone Ipêra",
+    preco: 6669,
     descricao:
-      "Descubra o poder do Smartphone X Pro, projetado para oferecer uma experiência excepcional em todos os aspectos. Equipado com um processador de última geração, o X Pro permite uma navegação ultrarrápida e eficiente, garantindo que você execute suas tarefas com facilidade, desde jogos e aplicativos exigentes até multitarefas sem interrupções.",
+      "Descubra o poder do Smartphone, projetado para oferecer uma experiência excepcional em todos os aspectos. Equipado com um processador de última geração, navegação ultrarrápida e eficiente, garantindo que você execute suas tarefas com facilidade, desde jogos e aplicativos exigentes até multitarefas sem interrupções.",
     imagemUrl:
-      "https://images.unsplash.com/photo-1720048171731-15b3d9d5473f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1609921205586-7e8a57516512?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: 2,
-    nome: "Notebook UltraPro 15",
-    preco: 3000,
+    nome: "MakBrook 15",
+    preco: 9666,
     descricao:
-      "O Notebook UltraPro 15 é a escolha ideal para quem busca potência e versatilidade em um único dispositivo. Equipado com um processador Intel Core i7 de última geração, 16GB de RAM e armazenamento SSD de 512GB, ele oferece desempenho ultrarrápido para tarefas exigentes, desde edição de vídeos até multitarefas avançadas. Sua tela Full HD de 15,6 polegadas com bordas ultrafinas proporciona uma experiência visual imersiva, enquanto a placa gráfica dedicada garante qualidade em jogos e aplicativos gráficos.",
+      "O Makbrook 15 Defineo que é potência e versatilidade em um único dispositivo. Equipado com um processador ARM, 69GB de RAM e armazenamento SSD de 666GB, ele oferece tudo que vc quer e nao pode pagar.",
     imagemUrl:
-      "https://images.unsplash.com/1/macbook-air-all-faded-and-stuff.jpg?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1644659306528-259903deccde?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: 3,
-    nome: "Tablet MaxTab 10 ",
-    preco: 1500,
+    nome: "TabletZ",
+    preco: 6969,
     descricao:
-      "O Tablet MaxTab 10 oferece a combinação perfeita de desempenho e portabilidade para o seu dia a dia. Com uma tela de 10,5 polegadas em alta resolução, ele garante uma experiência visual incrível, ideal para assistir filmes, navegar na web ou trabalhar em documentos. Equipado com um processador octa-core e 4GB de RAM, o MaxTab 10 executa aplicativos com fluidez, enquanto os 128GB de armazenamento permitem que você guarde todos os seus arquivos, fotos e aplicativos sem preocupações.",
+      "O Tablet Z desempenho e portabilidade para o seu dia a dia. Ele garante uma experiência inutil que voce quer gastar, ideal para assistir filmes. 1000GB de armazenamento permitem que você guarde todos os seus arquivos, fotos e aplicativos sem preocupações.",
     imagemUrl:
-      "https://plus.unsplash.com/premium_photo-1673968280716-ca0c00af8a39?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1607451845255-2f7de5e407e3?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
 ];
 

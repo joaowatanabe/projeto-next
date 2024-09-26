@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function PaginaFilhaComLayout() {
   return (
-    <div className="flex flex-col justify-center items-center h-screen text-2xl gap-5">
+    <div className="flex flex-col justify-center items-center text-2xl gap-5">
       <h1>Conteúdo da página FILHA</h1>
 
       <div className="flex gap-5">

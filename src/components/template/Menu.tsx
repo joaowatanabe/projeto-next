@@ -21,7 +21,7 @@ export default function Menu() {
                     href="/cliente-servidor"
                     icone={IconArrowsDiff}
                 />
-                <MenuItem texto="Administração" href="/admin" icone={IconUserHexagon} />
+                <MenuItem texto="Admin" href="/admin" icone={IconUserHexagon} />
             </nav>
         </aside>
     )

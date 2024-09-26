@@ -1,5 +1,5 @@
-import Carregando from '@/components/shared/Carregando'
+import Carregando from "@/components/shared/Carregando";
 
 export default function PaginaCarregando() {
-    return <Carregando quantidade={1} />
+  return <Carregando quantidade={3} />;
 }
